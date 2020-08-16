@@ -1,5 +1,5 @@
 # PressAnyKey
-PressAnyKey é uma rede social desenvolvida por estudantes que buscam a união de todos os gamers do mundo em uma grande rede, onde os mesmos podem conversar, conhecer pessoas novas, desafiar ou transmitir partidas competitivas.  
+PressAnyKey é uma rede social desenvolvida por estudantes que buscam a união de todos os gamers do mundo em uma grande rede, onde os mesmos podem conversar, conhecer pessoas novas, desafiar ou transmitir partidas competitivas. 
 
 ## Status
 Incompleto  
